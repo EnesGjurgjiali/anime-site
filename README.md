@@ -1,1 +1,1 @@
-This site was created from the tutorial of JSM MASTERY!
+This site is developed based on guidance provided by JavaScriptMastery, authored by Adrian Hajdin.
